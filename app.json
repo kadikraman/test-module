@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fcf38a4e-f8f7-47d7-bd85-1f146acb72c3"
+      }
+    },
+    "owner": "expokadi"
   }
 }
